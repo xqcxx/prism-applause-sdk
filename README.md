@@ -1,6 +1,10 @@
-# prism-applause-sdk
+# @rednevsky/prism-applause-sdk
 
 TypeScript SDK for interacting with the `public-kudos` Clarity contract.
+
+## App Homepage
+
+- https://prism-applause.vercel.app
 
 ## Deployed Mainnet Contract
 
@@ -16,13 +20,13 @@ TypeScript SDK for interacting with the `public-kudos` Clarity contract.
 ## Installation
 
 ```bash
-npm install prism-applause-sdk @stacks/transactions
+npm install @rednevsky/prism-applause-sdk @stacks/transactions
 ```
 
 ## Quick Start
 
 ```ts
-import { PublicKudosSDK } from 'prism-applause-sdk';
+import { PublicKudosSDK } from '@rednevsky/prism-applause-sdk';
 
 const sdk = new PublicKudosSDK({
   contractAddress: 'SP3CPTJFP3TQK00DV0B5SGE8R0N3Z40MWJ6QZD38Y',

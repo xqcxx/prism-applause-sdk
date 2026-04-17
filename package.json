@@ -1,5 +1,5 @@
 {
-  "name": "prism-applause-sdk",
+  "name": "@rednevsky/prism-applause-sdk",
   "version": "0.1.0",
   "description": "TypeScript SDK for public-kudos Clarity contract interactions on Stacks.",
   "type": "module",
@@ -45,11 +45,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/realvic22/prism-applause-sdk.git"
+    "url": "git+https://github.com/xqcxx/prism-applause-sdk.git"
   },
-  "homepage": "https://github.com/realvic22/prism-applause-sdk#readme",
+  "homepage": "https://prism-applause.vercel.app",
   "bugs": {
-    "url": "https://github.com/realvic22/prism-applause-sdk/issues"
+    "url": "https://github.com/xqcxx/prism-applause-sdk/issues"
   },
   "publishConfig": {
     "access": "public"
